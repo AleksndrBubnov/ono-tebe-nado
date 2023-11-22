@@ -1,0 +1,9 @@
+.about {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-between;
+
+  width: 1340px;
+  height: 487px;
+  margin: 180px 50px 0;
+}

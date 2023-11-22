@@ -1,0 +1,16 @@
+.jambotron__button {
+  position: absolute;
+  right: 50px;
+  bottom: 50px;
+
+  width: 257px;
+  height: 52px;
+  padding: 12px 0;
+
+  border: solid 1px white;
+  text-align: center;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}

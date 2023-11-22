@@ -1,0 +1,10 @@
+.about__colomn {
+  align-self: flex-end;
+
+  display: flex;
+  flex-flow: column nowrap;
+
+  gap: 100px;
+
+  width: 885px;
+}

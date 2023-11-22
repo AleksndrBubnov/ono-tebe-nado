@@ -1,0 +1,5 @@
+.jambotron__title-group {
+  display: flex;
+
+  gap: 10px 100px;
+}

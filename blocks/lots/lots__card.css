@@ -1,0 +1,12 @@
+.lots__card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+
+  width: 430px;
+  height: 450px;
+  padding: 50px 40px;
+
+  background-color: black;
+}

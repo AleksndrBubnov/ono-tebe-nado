@@ -1,0 +1,10 @@
+.lots__card-text {
+  z-index: 1;
+
+  color: white;
+  font-family: Raleway;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 120%; /* 24px */
+}

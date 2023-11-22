@@ -1,0 +1,13 @@
+.about__circle {
+  display: flex;
+  align-self: flex-start;
+
+  width: 240px;
+  height: 240px;
+  margin: 0 50px;
+  padding: auto;
+
+
+  border-radius: 50%;
+  background-color: black;
+}

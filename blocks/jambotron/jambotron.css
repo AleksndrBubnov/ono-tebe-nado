@@ -1,0 +1,9 @@
+.jambotron {
+  position: relative;
+  width: 1440px;
+  height: 757px;
+  color: white;
+  font-family: Raleway;
+  text-transform: uppercase;
+  background: url(../../images/cover.jpg) center / cover;
+}

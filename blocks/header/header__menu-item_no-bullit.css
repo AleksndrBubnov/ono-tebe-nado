@@ -1,0 +1,6 @@
+.header__menu-item_no-bullit {
+  list-style-type: none;
+  list-style-image: none;
+
+  border-bottom: none;
+}

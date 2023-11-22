@@ -1,0 +1,11 @@
+.footer__menu {
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: center;
+  
+  font-family: Raleway;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
